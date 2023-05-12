@@ -1,3 +1,5 @@
+Hi there! I'm Giulio Mezini. Welcome to my profile
+
 - 👋 Hi, I’m @LioMezini
 - 👀 I’m interested in 
 - 🌱 I’m currently learning HTML, CSS & JS
